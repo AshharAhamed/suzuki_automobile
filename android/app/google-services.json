@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236968676462",
+    "firebase_url": "https://suzuki-automobile-87594.firebaseio.com",
+    "project_id": "suzuki-automobile-87594",
+    "storage_bucket": "suzuki-automobile-87594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236968676462:android:4b79cef8a50e408ffd6a7f",
+        "android_client_info": {
+          "package_name": "com.suzukiautomobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236968676462-kp7do5r0aoqvgf3827mk3rrpfqrm0dt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIREb1jxgIXJv0WE76L7CeCHYqYFKZcL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236968676462-kp7do5r0aoqvgf3827mk3rrpfqrm0dt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
